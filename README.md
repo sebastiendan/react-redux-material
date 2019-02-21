@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A React Redux Web Application (SPA-PWA) recipe with Material Design (Material-UI), Typescript.
+A React Redux Web Application (SPA-PWA) recipe with Material Design (Material-UI), Typescript, and much more.
 
 ## Pages
 
