@@ -10,7 +10,7 @@
     "history": "^4.7.2",
     "js-cookie": "^2.2.0",
     "mdi-material-ui": "^5.9.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "path": "^0.12.7",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
